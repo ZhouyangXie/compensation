@@ -1,0 +1,7 @@
+This is the code repo for paper Pruning with Compensation: Efficient Channel Pruning for Deep Convolutional Neural Networks(https://arxiv.org/abs/2108.13728).
+
+To be completed soon...
+
+Three main components in this paper: the implementation of pruning compensation and compensation-aware pruning can be found in another repo called pseudopruner at https://github.com/ZhouyangXie/pseudopruner. This repo contains the code for structural search and will be filled with experimental code in the future.
+
+Contact: oceania.xie@gmail.com
